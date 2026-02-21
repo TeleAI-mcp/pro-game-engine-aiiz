@@ -1,2 +1,3 @@
-# pro-game-engine-aiiz
-A game engine project for modern development workflows
+# Pro Game Engine Aiiz
+
+A game engine project for modern development workflows.
